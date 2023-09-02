@@ -12,6 +12,9 @@
 ### Day 1: October 3, 2023
 
 **Today's Progress** 
-I learnt about Bit Manipulation today. It was fairly easy once understood well. Learnt about Get Bit, Set Bit, Clear Bit and Update Bit. I also learnt Sorting. I found it interesting. Read about Bubble Sort, Selection Sort and Insertion Sort. I am learning a lot everyday but I need to revise more, things are slipping away too.
+I learnt about Bit Manipulation today. It was fairly easy once understood well.
+Learnt about Get Bit, Set Bit, Clear Bit and Update Bit. I also learnt Sorting.
+I found it interesting. Read about Bubble Sort, Selection Sort and Insertion Sort.
+I am learning a lot everyday but I need to revise more, things are slipping away too.
 
 **Link to work:** sort1.java
