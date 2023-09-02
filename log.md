@@ -11,7 +11,7 @@
 
 ### Day 1: October 3, 2023
 
-**Today's Progress** 
+**Today's Progress:** 
 I learnt about Bit Manipulation today. It was fairly easy once understood well.
 Learnt about Get Bit, Set Bit, Clear Bit and Update Bit. I also learnt Sorting.
 I found it interesting. Read about Bubble Sort, Selection Sort and Insertion Sort.
