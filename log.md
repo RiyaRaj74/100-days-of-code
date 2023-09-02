@@ -8,3 +8,10 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
+### Day 1: October 3, 2023
+
+**Today's Progress** 
+I learnt about Bit Manipulation today. It was fairly easy once understood well. Learnt about Get Bit, Set Bit, Clear Bit and Update Bit. I also learnt Sorting. I found it interesting. Read about Bubble Sort, Selection Sort and Insertion Sort. I am learning a lot everyday but I need to revise more, things are slipping away too.
+
+**Link to work:** sort1.java
