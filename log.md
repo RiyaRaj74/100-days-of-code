@@ -9,7 +9,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 1: October 3, 2023
+### Day 1: September 2nd, 2023
 
 **Today's Progress:** 
 I learnt about Bit Manipulation today. It was fairly easy once understood well.
@@ -18,3 +18,8 @@ I found it interesting. Read about Bubble Sort, Selection Sort and Insertion Sor
 I am learning a lot everyday but I need to revise more, things are slipping away too.
 
 **Link to work:** sort1.java
+
+### Day 2: September 3rd, 2023
+
+**Today's Progress:**
+Learnt more about Recursion Today. Revised time complexity.
